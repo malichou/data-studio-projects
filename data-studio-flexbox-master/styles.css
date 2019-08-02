@@ -1,0 +1,9 @@
+.flex-parent {
+	margin:50px auto;
+	border:1px solid pink;
+}
+
+.flex-item {
+	background:#ccc;
+	border:1px dashed #aaa;
+}
